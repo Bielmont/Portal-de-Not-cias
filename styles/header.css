@@ -1,5 +1,6 @@
 #primeiro{
     padding-block: 20px;
+    justify-content: space-between;
 
     div{
         display: flex;
